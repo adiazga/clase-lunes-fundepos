@@ -1,0 +1,13 @@
+{
+  "name": "production-report-app",
+  "version": "1.0.0",
+  "description": "Production report dashboard for tracking output, downtime, and efficiency.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
